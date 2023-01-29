@@ -8,4 +8,4 @@ The structures used in the project;
 </ul>
 
 
-![Screenshot 2023-01-29 160728](https://user-images.githubusercontent.com/95571155/215328157-3959a10d-1f82-487d-9351-08f4dd7e2da1.png)
+![Screenshot 2023-01-29 161537](https://user-images.githubusercontent.com/95571155/215328705-ba1e4413-5547-45ea-ac1a-4585e3cd5a43.png)
