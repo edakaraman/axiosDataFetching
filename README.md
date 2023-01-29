@@ -6,3 +6,6 @@ The structures used in the project;
 <li> Axios </li>
 <li> Reactstrap </li>
 </ul>
+
+
+![Screenshot 2023-01-29 160728](https://user-images.githubusercontent.com/95571155/215328157-3959a10d-1f82-487d-9351-08f4dd7e2da1.png)
