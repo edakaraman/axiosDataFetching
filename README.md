@@ -3,8 +3,10 @@
 The structures used in the project;
 <ul>
 <li> React </li>
-<li> Axios </li>
 <li> Reactstrap </li>
+<li> styled-component </li> 
+<li> Axios </li>
+
 </ul>
 
 
