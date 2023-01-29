@@ -1,6 +1,7 @@
 import React from "react";
 import axios from "axios";
 import { Table, Container } from "reactstrap";
+import styled from "styled-components";
 
 export default class UserList extends React.Component {
   constructor(props) {
@@ -21,6 +22,7 @@ export default class UserList extends React.Component {
       return <div> Loading... </div>;
     }
     return (
+      <TableDecorate>
       <Container>
         <Table striped>
           <thead>
@@ -45,6 +47,12 @@ export default class UserList extends React.Component {
           </tbody>
         </Table>
       </Container>
+      </TableDecorate>
     );
   }
 }
+
+const TableDecorate = styled.div`
+  margin-top: 75px;
+  font-size:20px;
+  `;
